@@ -129,47 +129,6 @@ I regularly practice programming and JavaScript problems to improve my:
 
 ---
 
-# 📊 GitHub Analytics
-
-## 📋 Profile Summary
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight"
-    width="100%"
-    alt="GitHub Profile Summary"
-  />
-</p>
-
-## 🔤 Top Languages
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight"
-    width="48%"
-    alt="Top Languages by Repository"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight"
-    width="48%"
-    alt="Top Languages by Commit"
-  />
-</p>
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=tokyonight"
-    width="48%"
-    alt="GitHub Statistics"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=tokyonight&utcOffset=5.5"
-    width="48%"
-    alt="Productive Time"
-  />
-</p>
 
 ## 🔥 Contribution Streak
 
@@ -184,7 +143,7 @@ I regularly practice programming and JavaScript problems to improve my:
 
 # 🎓 Education
 
-### Diploma / Computer Science & Technology
+### Masters in International Business  from Aston University,Birmingham,UK
 
 📍 **Kolkata, India 🇮🇳**
 
@@ -228,7 +187,7 @@ Open to:
 
   &nbsp;&nbsp;
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/Sudhanya13" target="_blank">
     <img 
       src="https://cdn.simpleicons.org/github/181717" 
       width="40" 
