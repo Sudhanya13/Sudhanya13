@@ -1,10 +1,10 @@
-<p align="center">
+<!-- <p align="center">
   <img 
     src="./banner/banner.png" 
     alt="Sudhanya Dutta - Future Full Stack Developer"
     width="100%"
   />
-</p>
+</p> -->
 
 <h1 align="center">Hi 👋, I'm Sudhanya Dutta</h1>
 
