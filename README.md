@@ -1,5 +1,5 @@
 
-![image alt] (https://github.com/Sudhanya13/Sudhanya13/blob/8768eb6f1266f3e7d54523a90f4dba83f4a7795f/my%20image%20MERN.png)
+![image alt](https://github.com/Sudhanya13/Sudhanya13/blob/8768eb6f1266f3e7d54523a90f4dba83f4a7795f/my%20image%20MERN.png)
 
 <h1 align="center">Hi 👋, I'm Sudhanya Dutta</h1>
 
