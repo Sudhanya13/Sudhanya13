@@ -1,6 +1,7 @@
  <p align="center">
   <img 
-    src="<img width="2048" height="768" alt="my image MERN" src="https://github.com/user-attachments/assets/5dfba42c-3869-4861-a9dd-83438feeef62" />
+    src="![Uploading my image MERN.png…]()
+ alt="my image MERN" src="https://github.com/user-attachments/assets/5dfba42c-3869-4861-a9dd-83438feeef62" />
 " 
     alt="Sudhanya Dutta - Future Full Stack Developer"
     width="100%"
