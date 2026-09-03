@@ -170,7 +170,19 @@ Open to:
 
 # 📫 Connect With Me
 
-<p align="center">
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-sudhanyadutta70%40gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhanyadutta70@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sudhanyadutta-10B981?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanyadutta/)
+[![GitHub](https://img.shields.io/badge/GitHub-Sudhanya13-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sudhanya13)
+
+<br/>
+
+
+
+</div>
+
+<!-- <p align="center">
 
   <a href="mailto:sudhanyadutta70@gmail.com">
     <img 
@@ -196,7 +208,7 @@ Open to:
   📧 <b>sudhanyadutta70@gmail.com</b>
   <br>
   📍 <b>Kolkata, India 🇮🇳</b>
-</p>
+</p> -->
 
 ---
 
